@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.GenericBinarySearch",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.GenericBinarySearchTests", "Task4.GenericBinarySearchTests\Task4.GenericBinarySearchTests.csproj", "{5EDB1922-2D67-4515-A52E-3E07797CCBEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5.GenericSort", "Task5.GenericSort\Task5.GenericSort.csproj", "{6F6DB21E-46A5-490C-978B-A8BCFA3D9CF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{5EDB1922-2D67-4515-A52E-3E07797CCBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EDB1922-2D67-4515-A52E-3E07797CCBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EDB1922-2D67-4515-A52E-3E07797CCBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F6DB21E-46A5-490C-978B-A8BCFA3D9CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6DB21E-46A5-490C-978B-A8BCFA3D9CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6DB21E-46A5-490C-978B-A8BCFA3D9CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6DB21E-46A5-490C-978B-A8BCFA3D9CF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
