@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.FibonacciSequence", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.CustomGenericQueue", "Task3.CustomGenericQueue\Task3.CustomGenericQueue.csproj", "{EBFA354D-5756-40D4-B2BC-927FEDDE1BF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.GenericBinarySearch", "Task4.GenericBinarySearch\Task4.GenericBinarySearch.csproj", "{553FC847-E0B1-463B-A14D-57486EC863FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.GenericBinarySearchTests", "Task4.GenericBinarySearchTests\Task4.GenericBinarySearchTests.csproj", "{5EDB1922-2D67-4515-A52E-3E07797CCBEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{EBFA354D-5756-40D4-B2BC-927FEDDE1BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBFA354D-5756-40D4-B2BC-927FEDDE1BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBFA354D-5756-40D4-B2BC-927FEDDE1BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553FC847-E0B1-463B-A14D-57486EC863FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553FC847-E0B1-463B-A14D-57486EC863FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553FC847-E0B1-463B-A14D-57486EC863FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553FC847-E0B1-463B-A14D-57486EC863FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDB1922-2D67-4515-A52E-3E07797CCBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDB1922-2D67-4515-A52E-3E07797CCBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDB1922-2D67-4515-A52E-3E07797CCBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDB1922-2D67-4515-A52E-3E07797CCBEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
