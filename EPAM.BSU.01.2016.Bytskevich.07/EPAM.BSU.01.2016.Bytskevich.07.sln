@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.MailSenderOnTimer", "Task1.MailSenderOnTimer\Task1.MailSenderOnTimer.csproj", "{0660C1B4-926A-4F67-93DE-0718423FF56E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.ConsloeApp", "Task1.ConsloeApp\Task1.ConsloeApp.csproj", "{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0660C1B4-926A-4F67-93DE-0718423FF56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0660C1B4-926A-4F67-93DE-0718423FF56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0660C1B4-926A-4F67-93DE-0718423FF56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0660C1B4-926A-4F67-93DE-0718423FF56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
