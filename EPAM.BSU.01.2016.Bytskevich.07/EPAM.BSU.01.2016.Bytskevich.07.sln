@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.MailSenderOnTimer", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.ConsloeApp", "Task1.ConsloeApp\Task1.ConsloeApp.csproj", "{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.FibonacciSequence", "Task2.FibonacciSequence\Task2.FibonacciSequence.csproj", "{2750D767-3D10-4EFC-965D-AC9111CEEC6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EFE3E46-F715-4316-A7A8-8EE26CE89F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2750D767-3D10-4EFC-965D-AC9111CEEC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2750D767-3D10-4EFC-965D-AC9111CEEC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2750D767-3D10-4EFC-965D-AC9111CEEC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2750D767-3D10-4EFC-965D-AC9111CEEC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
